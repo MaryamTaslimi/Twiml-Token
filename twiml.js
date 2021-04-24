@@ -22,7 +22,7 @@ app.get('/', function (req, res) {
   res.send(twiml.toString());
 });
 
-app.get('/token', function (req, res) {
+app.get('/token/', function (req, res) {
   const IDENTITY = req.param('Identity');
   const ACCOUNT_SID = process.env.ACCOUNT_SID;
 
