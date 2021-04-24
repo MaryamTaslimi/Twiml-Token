@@ -1,15 +1,15 @@
 {
-    "name": "twimlapp",
-    "version": "1.0.0",
-    "description": "node app ",
-    "main": "app.js",
-    "scripts": {
-    "start": "node twiml.js"
-  },
-    "repository": {
-    "type": "git",
-    "url": "https://github.com/MaryamTaslimi/Twiml-CreateToken.git"
-  },
-    "author": "maryam",
-    "license": "ISC",
-  }
+  "name": "TwimlApp",
+  "version": "1.0.0",
+  "description": "node app ",
+  "main": "twiml.js",
+  "scripts": {
+  "start": "node twiml.js"
+},
+  "repository": {
+  "type": "git",
+  "url": "https://github.com/MaryamTaslimi/Twiml-Token.git"
+},
+  "author": "Maryam Taslimi",
+  "homepage": ""
+}
